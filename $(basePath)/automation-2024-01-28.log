@@ -1,0 +1,461 @@
+22:01:13.258 [main] INFO  api.test.StoreTests - **************creating user ****************************
+22:01:23.287 [main] INFO  api.test.StoreTests - **************user is created***********************
+22:01:23.643 [main] INFO  api.test.StoreTests - **********************reading user info****************************
+22:01:25.454 [main] INFO  api.test.StoreTests - *******************user info is displayed*************************
+22:01:25.530 [main] INFO  api.test.StoreTests - *********************updating user info*******************
+22:01:25.853 [main] INFO  api.test.StoreTests - *********************user info updated*******************
+22:01:25.884 [main] INFO  api.test.StoreTests - *********************deleting user info*******************
+22:01:26.212 [main] INFO  api.test.StoreTests - *********************user info deleted*******************
+22:08:40.382 [main] DEBUG api.test.StoreTests - debugging.....
+22:08:40.531 [main] INFO  api.test.StoreTests - **************creating user ****************************
+22:08:50.532 [main] INFO  api.test.StoreTests - **************user is created***********************
+22:08:50.560 [main] INFO  api.test.StoreTests - **********************reading user info****************************
+22:08:52.368 [main] INFO  api.test.StoreTests - *******************user info is displayed*************************
+22:08:52.374 [main] INFO  api.test.StoreTests - *********************updating user info*******************
+22:08:52.726 [main] INFO  api.test.StoreTests - *********************user info updated*******************
+22:08:52.730 [main] INFO  api.test.StoreTests - *********************deleting user info*******************
+22:08:53.071 [main] INFO  api.test.StoreTests - *********************user info deleted*******************
+22:22:41.011 [main] DEBUG api.test.UserTests - debugging.....
+22:22:41.148 [main] INFO  api.test.UserTests - **************creating user ****************************
+22:22:47.408 [main] INFO  api.test.UserTests - **************user created ****************************
+22:22:47.619 [main] INFO  api.test.UserTests - **************creatinglist of  user ****************************
+22:22:51.013 [main] INFO  api.test.UserTests - **************list of  user created****************************
+22:22:51.061 [main] INFO  api.test.UserTests - **************creating  array of user ****************************
+22:22:51.486 [main] INFO  api.test.UserTests - **************displaying user info****************************
+22:22:52.671 [main] INFO  api.test.UserTests - **************user info displayed ****************************
+22:22:52.797 [main] INFO  api.test.UserTests - **************log into the system ****************************
+22:22:53.169 [main] INFO  api.test.UserTests - **************logged into the system ****************************
+22:22:53.224 [main] INFO  api.test.UserTests - **************logging out ****************************
+22:22:53.842 [main] INFO  api.test.UserTests - **************logging out of the system ****************************
+22:22:53.863 [main] INFO  api.test.UserTests - **************updating user ****************************
+22:22:55.751 [main] INFO  api.test.UserTests - **************user info updated*************************
+22:22:55.775 [main] INFO  api.test.UserTests - **************deleting user ****************************
+22:22:56.553 [main] INFO  api.test.UserTests - **************user info deleted ****************************
+22:29:51.814 [main] DEBUG api.test.PetTests - debugging.....
+22:29:51.876 [main] INFO  api.test.PetTests - **************creating pet ****************************
+22:29:58.520 [main] INFO  api.test.PetTests - **************pet is created ****************************
+22:29:58.709 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+22:29:59.286 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+22:29:59.308 [main] INFO  api.test.PetTests - **************status updating ****************************
+22:29:59.663 [main] INFO  api.test.PetTests - **************status updated ****************************
+22:29:59.695 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+22:30:01.020 [main] INFO  api.test.PetTests - **************pet info displayed****************************
+22:30:01.097 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+22:30:01.544 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+22:30:01.564 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+22:30:01.873 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+22:30:01.920 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+22:30:02.216 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+22:35:59.608 [main] DEBUG api.test.UserTests - debugging.....
+22:35:59.676 [main] INFO  api.test.UserTests - **************creating user ****************************
+22:36:06.538 [main] INFO  api.test.UserTests - **************user created ****************************
+22:36:06.678 [main] INFO  api.test.UserTests - **************creatinglist of  user ****************************
+22:36:09.144 [main] INFO  api.test.UserTests - **************list of  user created****************************
+22:36:09.172 [main] INFO  api.test.UserTests - **************creating  array of user ****************************
+22:36:09.685 [main] INFO  api.test.UserTests - **************displaying user info****************************
+22:36:10.747 [main] INFO  api.test.UserTests - **************user info displayed ****************************
+22:36:10.803 [main] INFO  api.test.UserTests - **************log into the system ****************************
+22:36:11.212 [main] INFO  api.test.UserTests - **************logged into the system ****************************
+22:36:11.244 [main] INFO  api.test.UserTests - **************logging out ****************************
+22:36:11.530 [main] INFO  api.test.UserTests - **************logging out of the system ****************************
+22:36:11.555 [main] INFO  api.test.UserTests - **************updating user ****************************
+22:36:12.321 [main] INFO  api.test.UserTests - **************user info updated*************************
+22:36:12.369 [main] INFO  api.test.UserTests - **************deleting user ****************************
+22:36:12.647 [main] INFO  api.test.UserTests - **************user info deleted ****************************
+22:37:23.756 [main] DEBUG api.test.UserTests - debugging.....
+22:37:23.812 [main] INFO  api.test.UserTests - **************creating user ****************************
+22:37:30.128 [main] INFO  api.test.UserTests - **************user created ****************************
+22:37:30.333 [main] INFO  api.test.UserTests - **************creatinglist of  user ****************************
+22:37:32.882 [main] INFO  api.test.UserTests - **************list of  user created****************************
+22:37:32.954 [main] INFO  api.test.UserTests - **************creating  array of user ****************************
+22:37:33.375 [main] INFO  api.test.UserTests - **************displaying user info****************************
+22:37:34.340 [main] INFO  api.test.UserTests - **************user info displayed ****************************
+22:37:34.415 [main] INFO  api.test.UserTests - **************log into the system ****************************
+22:37:34.837 [main] INFO  api.test.UserTests - **************logged into the system ****************************
+22:37:34.886 [main] INFO  api.test.UserTests - **************logging out ****************************
+22:37:35.193 [main] INFO  api.test.UserTests - **************logging out of the system ****************************
+22:37:35.226 [main] INFO  api.test.UserTests - **************updating user ****************************
+22:37:36.165 [main] INFO  api.test.UserTests - **************user info updated*************************
+22:37:36.207 [main] INFO  api.test.UserTests - **************deleting user ****************************
+22:37:36.489 [main] INFO  api.test.UserTests - **************user info deleted ****************************
+22:44:55.953 [main] DEBUG api.test.UserTests - debugging.....
+22:44:56.003 [main] INFO  api.test.UserTests - **************creating user ****************************
+22:45:02.734 [main] INFO  api.test.UserTests - **************user created ****************************
+22:45:02.883 [main] INFO  api.test.UserTests - **************creatinglist of  user ****************************
+22:45:05.371 [main] INFO  api.test.UserTests - **************list of  user created****************************
+22:45:05.535 [main] INFO  api.test.UserTests - **************creating  array of user ****************************
+22:45:05.971 [main] INFO  api.test.UserTests - **************displaying user info****************************
+22:45:07.222 [main] INFO  api.test.UserTests - **************user info displayed ****************************
+22:45:07.267 [main] INFO  api.test.UserTests - **************log into the system ****************************
+22:45:07.653 [main] INFO  api.test.UserTests - **************logged into the system ****************************
+22:45:07.705 [main] INFO  api.test.UserTests - **************logging out ****************************
+22:45:07.987 [main] INFO  api.test.UserTests - **************logging out of the system ****************************
+22:45:08.032 [main] INFO  api.test.UserTests - **************updating user ****************************
+22:45:08.791 [main] INFO  api.test.UserTests - **************user info updated*************************
+22:45:08.816 [main] INFO  api.test.UserTests - **************deleting user ****************************
+22:45:09.090 [main] INFO  api.test.UserTests - **************user info deleted ****************************
+22:46:25.032 [main] DEBUG api.test.UserTests - debugging.....
+22:46:25.074 [main] INFO  api.test.UserTests - **************creating user ****************************
+22:46:31.396 [main] INFO  api.test.UserTests - **************user created ****************************
+22:46:31.560 [main] INFO  api.test.UserTests - **************creatinglist of  user ****************************
+22:46:34.465 [main] INFO  api.test.UserTests - **************list of  user created****************************
+22:46:34.534 [main] INFO  api.test.UserTests - **************creating  array of user ****************************
+22:46:34.959 [main] INFO  api.test.UserTests - **************displaying user info****************************
+22:46:36.011 [main] INFO  api.test.UserTests - **************user info displayed ****************************
+22:46:36.081 [main] INFO  api.test.UserTests - **************log into the system ****************************
+22:46:36.496 [main] INFO  api.test.UserTests - **************logged into the system ****************************
+22:46:36.626 [main] INFO  api.test.UserTests - **************logging out ****************************
+22:46:36.937 [main] INFO  api.test.UserTests - **************logging out of the system ****************************
+22:46:36.959 [main] INFO  api.test.UserTests - **************updating user ****************************
+22:46:37.893 [main] INFO  api.test.UserTests - **************user info updated*************************
+22:46:37.921 [main] INFO  api.test.UserTests - **************deleting user ****************************
+22:46:38.214 [main] INFO  api.test.UserTests - **************user info deleted ****************************
+22:47:37.565 [main] INFO  api.test.UserTests - **************creating user ****************************
+22:47:44.464 [main] INFO  api.test.UserTests - **************user created ****************************
+22:47:44.611 [main] INFO  api.test.UserTests - **************creatinglist of  user ****************************
+22:47:47.007 [main] INFO  api.test.UserTests - **************list of  user created****************************
+22:47:47.084 [main] INFO  api.test.UserTests - **************creating  array of user ****************************
+22:47:47.502 [main] INFO  api.test.UserTests - **************displaying user info****************************
+22:47:48.642 [main] INFO  api.test.UserTests - **************user info displayed ****************************
+22:47:48.775 [main] INFO  api.test.UserTests - **************log into the system ****************************
+22:47:49.159 [main] INFO  api.test.UserTests - **************logged into the system ****************************
+22:47:49.194 [main] INFO  api.test.UserTests - **************logging out ****************************
+22:47:49.471 [main] INFO  api.test.UserTests - **************logging out of the system ****************************
+22:47:49.492 [main] INFO  api.test.UserTests - **************updating user ****************************
+22:47:50.317 [main] INFO  api.test.UserTests - **************user info updated*************************
+22:47:50.365 [main] INFO  api.test.UserTests - **************deleting user ****************************
+22:47:50.622 [main] INFO  api.test.UserTests - **************user info deleted ****************************
+16:54:25.242 [main] INFO  api.test.StoreTests2 - **************creating order ****************************
+16:54:25.626 [main] INFO  api.test.StoreTests2 - **********************reading order info****************************
+16:54:25.808 [main] INFO  api.test.StoreTests2 - *********************updating order info*******************
+16:54:26.037 [main] INFO  api.test.StoreTests2 - *********************deleting order info*******************
+17:09:57.778 [main] INFO  api.test.StoreTests2 - **************creating order ****************************
+17:10:03.631 [main] INFO  api.test.StoreTests2 - **************order is created***********************
+17:10:03.868 [main] INFO  api.test.StoreTests2 - **********************reading order info****************************
+17:10:04.985 [main] INFO  api.test.StoreTests2 - *******************user order is displayed*************************
+17:10:05.010 [main] INFO  api.test.StoreTests2 - *********************updating order info*******************
+17:10:05.313 [main] INFO  api.test.StoreTests2 - *********************order info updated*******************
+17:10:05.337 [main] INFO  api.test.StoreTests2 - *********************deleting order info*******************
+17:10:05.633 [main] INFO  api.test.StoreTests2 - *********************order info deleted*******************
+17:27:14.564 [main] INFO  api.test.UserTests - **************creating user ****************************
+17:27:20.808 [main] INFO  api.test.UserTests - **************user created ****************************
+17:27:21.012 [main] INFO  api.test.UserTests - **************creatinglist of  user ****************************
+17:27:23.178 [main] INFO  api.test.UserTests - **************list of  user created****************************
+17:27:23.237 [main] INFO  api.test.UserTests - **************creating  array of user ****************************
+17:27:23.650 [main] INFO  api.test.UserTests - **************displaying user info****************************
+17:27:24.836 [main] INFO  api.test.UserTests - **************user info displayed ****************************
+17:27:24.911 [main] INFO  api.test.UserTests - **************log into the system ****************************
+17:27:25.279 [main] INFO  api.test.UserTests - **************logged into the system ****************************
+17:27:25.324 [main] INFO  api.test.UserTests - **************logging out ****************************
+17:27:25.610 [main] INFO  api.test.UserTests - **************logging out of the system ****************************
+17:27:25.631 [main] INFO  api.test.UserTests - **************updating user ****************************
+17:27:26.415 [main] INFO  api.test.UserTests - **************user info updated*************************
+17:27:26.469 [main] INFO  api.test.UserTests - **************deleting user ****************************
+17:27:26.739 [main] INFO  api.test.UserTests - **************user info deleted ****************************
+17:27:45.555 [main] INFO  api.test.UserTests2 - **************creating user ****************************
+17:27:51.974 [main] INFO  api.test.UserTests2 - **************user created ****************************
+17:27:52.121 [main] INFO  api.test.UserTests2 - **************creatinglist of  user ****************************
+17:27:54.358 [main] INFO  api.test.UserTests2 - **************list of  user created****************************
+17:27:54.399 [main] INFO  api.test.UserTests2 - **************creating  array of user ****************************
+17:27:54.472 [main] INFO  api.test.UserTests2 - **************displaying user info****************************
+17:27:55.495 [main] INFO  api.test.UserTests2 - **************user info displayed ****************************
+17:27:55.551 [main] INFO  api.test.UserTests2 - **************log into the system ****************************
+17:27:55.934 [main] INFO  api.test.UserTests2 - **************logged into the system ****************************
+17:27:55.991 [main] INFO  api.test.UserTests2 - **************logging out ****************************
+17:27:56.400 [main] INFO  api.test.UserTests2 - **************updating user ****************************
+17:27:57.493 [main] INFO  api.test.UserTests2 - **************user info updated*************************
+17:27:57.546 [main] INFO  api.test.UserTests2 - **************deleting user ****************************
+17:30:36.106 [main] INFO  api.test.UserTests2 - **************creating user ****************************
+17:30:41.794 [main] INFO  api.test.UserTests2 - **************user created ****************************
+17:30:42.086 [main] INFO  api.test.UserTests2 - **************creatinglist of  user ****************************
+17:30:44.399 [main] INFO  api.test.UserTests2 - **************list of  user created****************************
+17:30:44.449 [main] INFO  api.test.UserTests2 - **************creating  array of user ****************************
+17:30:44.541 [main] INFO  api.test.UserTests2 - **************displaying user info****************************
+17:30:45.638 [main] INFO  api.test.UserTests2 - **************user info displayed ****************************
+17:30:45.681 [main] INFO  api.test.UserTests2 - **************log into the system ****************************
+17:30:46.090 [main] INFO  api.test.UserTests2 - **************logged into the system ****************************
+17:30:46.177 [main] INFO  api.test.UserTests2 - **************logging out ****************************
+17:30:46.487 [main] INFO  api.test.UserTests2 - **************logging out of the system ****************************
+17:30:46.510 [main] INFO  api.test.UserTests2 - **************updating user ****************************
+17:30:47.464 [main] INFO  api.test.UserTests2 - **************user info updated*************************
+17:30:47.510 [main] INFO  api.test.UserTests2 - **************deleting user ****************************
+17:30:47.790 [main] INFO  api.test.UserTests2 - **************user info deleted ****************************
+17:43:54.475 [main] INFO  api.test.PetTests2 - **************creating pet ****************************
+17:44:00.978 [main] INFO  api.test.PetTests2 - **************uploading the image ****************************
+17:44:01.591 [main] INFO  api.test.PetTests2 - **************status updating ****************************
+17:44:02.008 [main] INFO  api.test.PetTests2 - **************displaying pet info****************************
+17:44:03.126 [main] INFO  api.test.PetTests2 - **************pets which are pending****************************
+17:44:03.420 [main] INFO  api.test.PetTests2 - **************displayed on the basis of status****************************
+17:44:03.435 [main] INFO  api.test.PetTests2 - **************updating the pet info ****************************
+17:44:03.753 [main] INFO  api.test.PetTests2 - **************deleting pet info ****************************
+17:47:01.754 [main] INFO  api.test.PetTests2 - **************creating pet ****************************
+17:47:09.139 [main] INFO  api.test.PetTests2 - **************pet is created ****************************
+17:47:09.478 [main] INFO  api.test.PetTests2 - **************uploading the image ****************************
+17:47:10.208 [main] INFO  api.test.PetTests2 - **************image uploaded ****************************
+17:47:10.232 [main] INFO  api.test.PetTests2 - **************status updating ****************************
+17:47:10.589 [main] INFO  api.test.PetTests2 - **************status updated ****************************
+17:47:10.612 [main] INFO  api.test.PetTests2 - **************displaying pet info****************************
+17:47:11.749 [main] INFO  api.test.PetTests2 - **************pets which are pending****************************
+17:47:12.292 [main] INFO  api.test.PetTests2 - **************displayed on the basis of status****************************
+17:47:12.321 [main] INFO  api.test.PetTests2 - **************updating the pet info ****************************
+17:47:12.622 [main] INFO  api.test.PetTests2 - **************updated the pet info ****************************
+17:47:12.646 [main] INFO  api.test.PetTests2 - **************deleting pet info ****************************
+17:47:12.918 [main] INFO  api.test.PetTests2 - **************deleted pet info****************************
+17:56:55.098 [main] INFO  api.test.PetTests2 - **************creating pet ****************************
+17:57:01.860 [main] INFO  api.test.PetTests2 - **************pet is created ****************************
+17:57:02.088 [main] INFO  api.test.PetTests2 - **************uploading the image ****************************
+17:57:02.745 [main] INFO  api.test.PetTests2 - **************image uploaded ****************************
+17:57:02.765 [main] INFO  api.test.PetTests2 - **************status updating ****************************
+17:57:03.106 [main] INFO  api.test.PetTests2 - **************status updated ****************************
+17:57:03.132 [main] INFO  api.test.PetTests2 - **************displaying pet info****************************
+17:57:04.111 [main] INFO  api.test.PetTests2 - **************pets which are pending****************************
+17:57:04.576 [main] INFO  api.test.PetTests2 - **************displayed on the basis of status****************************
+17:57:04.601 [main] INFO  api.test.PetTests2 - **************updating the pet info ****************************
+17:57:04.903 [main] INFO  api.test.PetTests2 - **************updated the pet info ****************************
+17:57:04.924 [main] INFO  api.test.PetTests2 - **************deleting pet info ****************************
+17:57:05.203 [main] INFO  api.test.PetTests2 - **************deleted pet info****************************
+18:06:11.569 [main] INFO  api.test.PetTests - **************creating pet ****************************
+18:06:17.647 [main] INFO  api.test.PetTests - **************pet is created ****************************
+18:06:17.870 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+18:06:18.055 [main] INFO  api.test.PetTests - **************status updating ****************************
+18:06:18.094 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+18:06:18.217 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+18:06:18.280 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+18:06:18.351 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+18:08:07.913 [main] INFO  api.test.PetTests - **************creating pet ****************************
+18:08:14.219 [main] INFO  api.test.PetTests - **************pet is created ****************************
+18:08:14.375 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+18:08:15.141 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+18:08:15.162 [main] INFO  api.test.PetTests - **************status updating ****************************
+18:08:15.488 [main] INFO  api.test.PetTests - **************status updated ****************************
+18:08:15.518 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+18:08:16.572 [main] INFO  api.test.PetTests - **************pet info displayed****************************
+18:08:16.636 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+18:08:16.965 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+18:08:16.983 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+18:08:17.271 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+18:08:17.295 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+18:08:17.561 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+18:31:06.574 [main] INFO  api.test.PetTests - **************creating pet ****************************
+18:31:13.301 [main] INFO  api.test.PetTests - **************pet is created ****************************
+18:31:13.585 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+18:31:14.194 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+18:31:14.213 [main] INFO  api.test.PetTests - **************status updating ****************************
+18:31:14.636 [main] INFO  api.test.PetTests - **************status updated ****************************
+18:31:14.659 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+18:31:15.031 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+18:31:15.315 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+18:31:15.335 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+18:31:15.642 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+18:31:15.662 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+18:31:15.946 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+18:33:11.070 [main] INFO  api.test.UserTests - **************creating user ****************************
+18:33:17.755 [main] INFO  api.test.UserTests - **************user created ****************************
+18:33:18.032 [main] INFO  api.test.UserTests - **************creatinglist of  user ****************************
+18:33:20.951 [main] INFO  api.test.UserTests - **************list of  user created****************************
+18:33:21.061 [main] INFO  api.test.UserTests - **************creating  array of user ****************************
+18:33:21.110 [main] INFO  api.test.UserTests - **************displaying user info****************************
+18:33:21.396 [main] INFO  api.test.UserTests - **************logging out ****************************
+18:33:21.490 [main] INFO  api.test.UserTests - **************updating user ****************************
+18:33:22.093 [main] INFO  api.test.UserTests - **************deleting user ****************************
+18:34:49.144 [main] INFO  api.test.UserTests - **************creating user ****************************
+18:34:55.676 [main] INFO  api.test.UserTests - **************user created ****************************
+18:34:55.869 [main] INFO  api.test.UserTests - **************creatinglist of  user ****************************
+18:34:58.191 [main] INFO  api.test.UserTests - **************list of  user created****************************
+18:34:58.241 [main] INFO  api.test.UserTests - **************creating  array of user ****************************
+18:34:58.617 [main] INFO  api.test.UserTests - **************displaying user info****************************
+18:34:59.864 [main] INFO  api.test.UserTests - **************user info displayed ****************************
+18:35:00.160 [main] INFO  api.test.UserTests - **************logging out ****************************
+18:35:00.434 [main] INFO  api.test.UserTests - **************logging out of the system ****************************
+18:35:00.454 [main] INFO  api.test.UserTests - **************updating user ****************************
+18:35:01.318 [main] INFO  api.test.UserTests - **************user info updated*************************
+18:35:01.362 [main] INFO  api.test.UserTests - **************deleting user ****************************
+18:35:01.713 [main] INFO  api.test.UserTests - **************user info deleted ****************************
+18:41:13.932 [main] INFO  api.test.UserTests2 - **************creating user ****************************
+18:41:20.705 [main] INFO  api.test.UserTests2 - **************user created ****************************
+18:41:20.723 [main] INFO  api.test.UserTests2 - **************creatinglist of  user ****************************
+18:41:23.301 [main] INFO  api.test.UserTests2 - **************list of  user created****************************
+18:41:23.307 [main] INFO  api.test.UserTests2 - **************creating  array of user ****************************
+18:41:23.416 [main] INFO  api.test.UserTests2 - **************displaying user info****************************
+18:41:23.535 [main] INFO  api.test.UserTests2 - **************logging out ****************************
+18:41:23.552 [main] INFO  api.test.UserTests2 - **************updating user ****************************
+18:41:24.049 [main] INFO  api.test.UserTests2 - **************deleting user ****************************
+18:45:04.586 [main] INFO  api.test.StoreTests - **************creating order ****************************
+18:45:10.662 [main] INFO  api.test.StoreTests - **************order is created***********************
+18:45:10.855 [main] INFO  api.test.StoreTests - **********************reading order info****************************
+18:45:10.972 [main] INFO  api.test.StoreTests - *********************updating order info*******************
+18:45:11.087 [main] INFO  api.test.StoreTests - *********************deleting order info*******************
+18:46:37.609 [main] INFO  api.test.StoreTests - **************creating order ****************************
+18:46:44.137 [main] INFO  api.test.StoreTests - **************order is created***********************
+18:46:44.340 [main] INFO  api.test.StoreTests - **********************reading order info****************************
+18:46:45.410 [main] INFO  api.test.StoreTests - *******************user order is displayed*************************
+18:46:45.495 [main] INFO  api.test.StoreTests - *********************updating order info*******************
+18:46:45.800 [main] INFO  api.test.StoreTests - *********************order info updated*******************
+18:46:45.820 [main] INFO  api.test.StoreTests - *********************deleting order info*******************
+18:46:46.102 [main] INFO  api.test.StoreTests - *********************order info deleted*******************
+18:49:01.625 [main] INFO  api.test.StoreTests2 - **************creating order ****************************
+18:49:08.435 [main] INFO  api.test.StoreTests2 - **************order is created***********************
+18:49:08.677 [main] INFO  api.test.StoreTests2 - **********************reading order info****************************
+18:49:10.052 [main] INFO  api.test.StoreTests2 - *******************user order is displayed*************************
+18:49:10.150 [main] INFO  api.test.StoreTests2 - *********************updating order info*******************
+18:49:10.457 [main] INFO  api.test.StoreTests2 - *********************order info updated*******************
+18:49:10.481 [main] INFO  api.test.StoreTests2 - *********************deleting order info*******************
+18:49:10.792 [main] INFO  api.test.StoreTests2 - *********************order info deleted*******************
+18:58:39.164 [main] INFO  api.test.UserTests - **************creating user ****************************
+18:58:45.875 [main] INFO  api.test.UserTests - **************user created ****************************
+18:58:46.239 [main] INFO  api.test.UserTests - **************creatinglist of  user ****************************
+18:58:48.708 [main] INFO  api.test.UserTests - **************list of  user created****************************
+18:58:48.724 [main] INFO  api.test.UserTests - **************creating  array of user ****************************
+18:58:48.777 [main] INFO  api.test.UserTests - **************displaying user info****************************
+18:58:49.015 [main] INFO  api.test.UserTests - **************log into the system ****************************
+18:58:49.055 [main] INFO  api.test.UserTests - **************logging out ****************************
+18:58:49.089 [main] INFO  api.test.UserTests - **************updating user ****************************
+18:58:49.413 [main] INFO  api.test.UserTests - **************deleting user ****************************
+19:00:05.162 [main] INFO  api.test.UserTests - **************creating user ****************************
+19:00:11.610 [main] INFO  api.test.UserTests - **************user created ****************************
+19:00:11.792 [main] INFO  api.test.UserTests - **************creatinglist of  user ****************************
+19:00:14.222 [main] INFO  api.test.UserTests - **************list of  user created****************************
+19:00:14.277 [main] INFO  api.test.UserTests - **************creating  array of user ****************************
+19:00:14.697 [main] INFO  api.test.UserTests - **************displaying user info****************************
+19:00:15.931 [main] INFO  api.test.UserTests - **************user info displayed ****************************
+19:00:15.992 [main] INFO  api.test.UserTests - **************log into the system ****************************
+19:00:16.401 [main] INFO  api.test.UserTests - **************logged into the system ****************************
+19:00:16.427 [main] INFO  api.test.UserTests - **************logging out ****************************
+19:00:16.771 [main] INFO  api.test.UserTests - **************logging out of the system ****************************
+19:00:16.811 [main] INFO  api.test.UserTests - **************updating user ****************************
+19:00:17.887 [main] INFO  api.test.UserTests - **************user info updated*************************
+19:00:17.907 [main] INFO  api.test.UserTests - **************deleting user ****************************
+19:00:18.243 [main] INFO  api.test.UserTests - **************creating user ****************************
+19:03:19.580 [main] INFO  api.test.UserTests2 - **************creating user ****************************
+19:03:26.243 [main] INFO  api.test.UserTests2 - **************user created ****************************
+19:03:26.494 [main] INFO  api.test.UserTests2 - **************creatinglist of  user ****************************
+19:03:29.508 [main] INFO  api.test.UserTests2 - **************list of  user created****************************
+19:03:29.541 [main] INFO  api.test.UserTests2 - **************creating  array of user ****************************
+19:03:29.620 [main] INFO  api.test.UserTests2 - **************displaying user info****************************
+19:03:30.812 [main] INFO  api.test.UserTests2 - **************user info displayed ****************************
+19:03:30.873 [main] INFO  api.test.UserTests2 - **************log into the system ****************************
+19:03:31.314 [main] INFO  api.test.UserTests2 - **************logged into the system ****************************
+19:03:31.360 [main] INFO  api.test.UserTests2 - **************logging out ****************************
+19:03:31.676 [main] INFO  api.test.UserTests2 - **************logging out of the system ****************************
+19:03:31.721 [main] INFO  api.test.UserTests2 - **************updating user ****************************
+19:03:32.537 [main] INFO  api.test.UserTests2 - **************user info updated*************************
+19:03:32.557 [main] INFO  api.test.UserTests2 - **************deleting user ****************************
+19:03:32.899 [main] INFO  api.test.UserTests2 - **************user info deleted ****************************
+19:06:34.455 [main] INFO  api.test.PetTests - **************creating pet ****************************
+19:06:41.656 [main] INFO  api.test.PetTests - **************pet is created ****************************
+19:06:41.931 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+19:06:42.629 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+19:06:42.649 [main] INFO  api.test.PetTests - **************status updating ****************************
+19:06:43.025 [main] INFO  api.test.PetTests - **************status updated ****************************
+19:06:43.050 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+19:06:43.404 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+19:06:43.684 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+19:06:43.703 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+19:06:44.222 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+19:06:44.242 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+19:06:44.527 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+19:07:37.480 [main] INFO  api.test.PetTests - **************creating pet ****************************
+19:07:44.650 [main] INFO  api.test.PetTests - **************pet is created ****************************
+19:07:44.840 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+19:07:45.532 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+19:07:45.555 [main] INFO  api.test.PetTests - **************status updating ****************************
+19:07:45.918 [main] INFO  api.test.PetTests - **************status updated ****************************
+19:07:45.941 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+19:07:46.286 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+19:07:46.563 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+19:07:46.583 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+19:07:46.898 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+19:07:46.920 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+19:07:47.222 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+14:46:10.362 [main] INFO  api.test.PetTests - **************creating pet ****************************
+14:46:24.236 [main] INFO  api.test.PetTests - **************pet is created ****************************
+14:46:24.636 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+14:46:25.640 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+14:46:25.670 [main] INFO  api.test.PetTests - **************status updating ****************************
+14:46:26.189 [main] INFO  api.test.PetTests - **************status updated ****************************
+14:46:26.232 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+14:46:27.317 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+14:46:27.703 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+14:46:27.734 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+14:46:28.098 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+14:46:28.122 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+14:46:28.424 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+15:07:03.840 [main] INFO  api.test.PetTests - **************creating pet ****************************
+15:07:11.369 [main] INFO  api.test.PetTests - **************pet is created ****************************
+15:07:11.529 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+15:07:12.271 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+15:07:12.295 [main] INFO  api.test.PetTests - **************status updating ****************************
+15:07:12.671 [main] INFO  api.test.PetTests - **************status updated ****************************
+15:07:12.694 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+15:07:13.358 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+15:07:13.715 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+15:07:13.750 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+15:07:14.118 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+15:07:14.149 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+15:07:14.435 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+15:12:47.077 [main] INFO  api.test.PetTests - **************creating pet ****************************
+15:12:53.545 [main] INFO  api.test.PetTests - **************pet is created ****************************
+15:12:53.870 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+15:12:54.519 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+15:12:54.539 [main] INFO  api.test.PetTests - **************status updating ****************************
+15:12:54.908 [main] INFO  api.test.PetTests - **************status updated ****************************
+15:12:54.948 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+15:12:55.808 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+15:12:56.269 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+15:12:56.302 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+15:12:56.613 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+15:12:56.635 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+15:12:56.927 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+15:16:50.313 [main] INFO  api.test.PetTests - **************creating pet ****************************
+15:16:56.806 [main] INFO  api.test.PetTests - **************pet is created ****************************
+15:16:57.074 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+15:16:57.645 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+15:16:57.668 [main] INFO  api.test.PetTests - **************status updating ****************************
+15:16:58.027 [main] INFO  api.test.PetTests - **************status updated ****************************
+15:16:58.051 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+15:16:58.760 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+15:16:59.342 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+15:16:59.372 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+15:16:59.667 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+15:16:59.696 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+15:16:59.958 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+15:24:16.879 [main] INFO  api.test.PetTests - **************creating pet ****************************
+15:24:23.532 [main] INFO  api.test.PetTests - **************pet is created ****************************
+15:24:23.662 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+15:24:24.327 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+15:24:24.349 [main] INFO  api.test.PetTests - **************status updating ****************************
+15:24:24.665 [main] INFO  api.test.PetTests - **************status updated ****************************
+15:24:24.689 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+15:24:25.330 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+15:24:25.898 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+15:24:25.937 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+15:24:26.238 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+15:24:26.259 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+15:24:26.554 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+15:28:51.183 [main] INFO  api.test.PetTests - **************creating pet ****************************
+15:28:57.406 [main] INFO  api.test.PetTests - **************pet is created ****************************
+15:28:57.420 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+15:28:58.185 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+15:28:58.191 [main] INFO  api.test.PetTests - **************status updating ****************************
+15:28:58.540 [main] INFO  api.test.PetTests - **************status updated ****************************
+15:28:58.544 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+15:28:59.197 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+15:28:59.701 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+15:28:59.705 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+15:29:00.022 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+15:29:00.026 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+15:29:00.297 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+15:37:07.487 [main] INFO  api.test.PetTests - **************creating pet ****************************
+15:37:13.469 [main] INFO  api.test.PetTests - **************pet is created ****************************
+15:37:13.686 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+15:37:14.429 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+15:37:14.452 [main] INFO  api.test.PetTests - **************status updating ****************************
+15:37:14.912 [main] INFO  api.test.PetTests - **************status updated ****************************
+15:37:14.937 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+15:37:15.734 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+15:37:16.232 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+15:37:16.267 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+15:37:16.618 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+15:37:16.656 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+15:37:16.990 [main] INFO  api.test.PetTests - **************deleted pet info****************************
+15:43:33.000 [main] INFO  api.test.PetTests - **************creating pet ****************************
