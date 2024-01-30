@@ -381,3 +381,17 @@
 21:09:44.903 [main] INFO  api.test.PetTests2 - **************updated the pet info ****************************
 21:09:44.906 [main] INFO  api.test.PetTests2 - **************deleting pet info ****************************
 21:09:45.176 [main] INFO  api.test.PetTests2 - **************deleted pet info****************************
+18:43:55.886 [main] INFO  api.test.PetTests - **************creating pet ****************************
+18:44:02.890 [main] INFO  api.test.PetTests - **************pet is created ****************************
+18:44:03.070 [main] INFO  api.test.PetTests - **************uploading the image ****************************
+18:44:03.727 [main] INFO  api.test.PetTests - **************image uploaded ****************************
+18:44:03.743 [main] INFO  api.test.PetTests - **************status updating ****************************
+18:44:04.067 [main] INFO  api.test.PetTests - **************status updated ****************************
+18:44:04.100 [main] INFO  api.test.PetTests - **************displaying pet info****************************
+18:44:05.138 [main] INFO  api.test.PetTests - **************pet info displayed****************************
+18:44:05.231 [main] INFO  api.test.PetTests - **************pets which are pending****************************
+18:44:05.864 [main] INFO  api.test.PetTests - **************displayed on the basis of status****************************
+18:44:05.882 [main] INFO  api.test.PetTests - **************updating the pet info ****************************
+18:44:06.205 [main] INFO  api.test.PetTests - **************updated the pet info ****************************
+18:44:06.229 [main] INFO  api.test.PetTests - **************deleting pet info ****************************
+18:44:06.513 [main] INFO  api.test.PetTests - **************deleted pet info****************************
