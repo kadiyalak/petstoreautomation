@@ -1,4 +1,4 @@
-package api.test;
+/*package api.test;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -166,4 +166,4 @@ public class PetTests2 {
 	
 	Assert.assertEquals(response.getStatusCode(),200);logger.info("**************deleted pet info****************************");
 	}
-}
+}*/

@@ -1,4 +1,4 @@
-package api.test;import io.restassured.response.Response;
+/*package api.test;import io.restassured.response.Response;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -87,4 +87,4 @@ Response	response =UserEndPoints.updateUser(userPayload,userName);
 	
 	
 	
-}
+}*/

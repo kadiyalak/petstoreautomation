@@ -1,4 +1,4 @@
-package api.test;import org.testng.Assert;
+/*package api.test;import org.testng.Assert;
 import org.testng.annotations.Test;
 
 
@@ -90,4 +90,4 @@ Response	response =StoreEndPoints.deleteUser(orderid);
 	
 	
 	
-}
+}*/

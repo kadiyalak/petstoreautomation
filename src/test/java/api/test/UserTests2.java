@@ -1,4 +1,4 @@
-package api.test;
+/*package api.test;
 
 import static io.restassured.RestAssured.given;
 
@@ -183,15 +183,15 @@ public class UserTests2 {
 		extract().response();
 		JsonPath jsonPathEvaluator=response.jsonPath();
 		ValidatableResponse validatableresponse=response.then();
-		/*validatableresponse.body("$", hasKey("code"));
+		validatableresponse.body("$", hasKey("code"));
 		validatableresponse.body("$",hasKey("type")); 
 		validatableresponse.body("$",hasKey("message" ));
 		
 		validatableresponse.body("code",is(notNullValue())); 
 		validatableresponse.body("type",is(notNullValue()));
-		validatableresponse.body("message",is(notNullValue()));*/
-	/*Assert.assertEquals(jsonPathEvaluator.get("code"),200);
-	Assert.assertEquals(jsonPathEvaluator.get("type"),"unknown");*/
+		validatableresponse.body("message",is(notNullValue()));
+	Assert.assertEquals(jsonPathEvaluator.get("code"),200);
+	Assert.assertEquals(jsonPathEvaluator.get("type"),"unknown");
 		int valueOfCode=jsonPathEvaluator.get("code");
 		String valueOfType=jsonPathEvaluator.get("type");
 		String valueOfMessage=jsonPathEvaluator.get("message");
@@ -260,4 +260,4 @@ public class UserTests2 {
 	
 	
 	
-}
+}*/

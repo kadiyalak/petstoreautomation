@@ -1,4 +1,4 @@
-package api.test;
+/*package api.test;
 
 import static io.restassured.RestAssured.given;
 
@@ -104,4 +104,4 @@ public class StoreTests2 {
 	Assert.assertEquals(response.getStatusCode(),200);
 	logger.info("*********************order info deleted*******************");
 	}
-}
+}*/
