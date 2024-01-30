@@ -1,4 +1,4 @@
-/*package api.test;
+package api.test;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;import com.github.javafaker.Faker;
 import org.testng.annotations.Test;import java.util.Date;
@@ -98,7 +98,7 @@ public class StoreTests {
 	logger.info("*********************order info deleted*******************");
 	}
 	
-	}*/
+	}
 	
 	
 	

@@ -1,4 +1,4 @@
-/*package api.endPoints;
+package api.endPoints;
 import static io.restassured.RestAssured.given;
 
 import api.payLoad.Store;
@@ -50,4 +50,4 @@ public static Response getUser1()
 
 	}
 	
-	}*/
+	}

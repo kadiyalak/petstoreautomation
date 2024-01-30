@@ -1,5 +1,5 @@
 
-  package api.endPoints; import static io.restassured.RestAssured.given;
+ /* package api.endPoints; import static io.restassured.RestAssured.given;
   
   import java.io.File;
   
@@ -84,5 +84,5 @@ Response response= given() .multiPart("file","myfile")
   }
   
   
-  }
+  }*/
  

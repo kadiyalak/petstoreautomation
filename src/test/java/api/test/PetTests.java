@@ -1,4 +1,4 @@
-package api.test;
+/*package api.test;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import java.util.Map;
@@ -169,41 +169,10 @@ public Logger logger;
 	
 	Assert.assertEquals(response.getStatusCode(),200);logger.info("**************deleted pet info****************************");
 	}
-	/*(@Test
-	public void postPets() {
-	
-	String json="{"
-			+ "  \"id\": 0,"
-			+ "  \"category\": {"
-			+ "    \"id\": 0,"
-			+ "    \"name\": \"string\""
-			+ "  },"
-			+ "  \"name\": \"doggie\","
-			+ "  \"photoUrls\": ["
-			+ "    \"string\"" 
-			+ "  ],\r\n"
-			+ "  \"tags\": [\r\n"
-			+ "    {"
-			+ "      \"id\": 0,"
-			+ "      \"name\": \"string\""
-			+ "    }"
-			+ "  ],"
-			+ "  \"status\": \"available\""
-			+ "}";
-	
-	Response response=given().header("accept", "application/json").header("Content-Type", "application/json").body(json).
-	log().all().
-	when().post("https://petstore.swagger.io/v2/pet");
-	System.out.println(response.asPrettyString());
-	Assert.assertEquals
-	(response.statusCode(),200);
-	
-	Assert.assertEquals(response.contentType(),"application/json");
-	
-	}*/
 	
 	
-}
+	
+}*/
 	
 	
 	
