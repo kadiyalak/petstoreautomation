@@ -1,4 +1,4 @@
-package api.payLoad;
+/*package api.payLoad;
 
 public class User {
 double id;
@@ -225,4 +225,4 @@ String firstName;String lastName;String email;String password;String phone;
 
 
 
-}
+}*/

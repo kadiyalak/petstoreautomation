@@ -1,4 +1,4 @@
-package api.endPoints;
+/*package api.endPoints;
 
 import static io.restassured.RestAssured.given;
 
@@ -107,4 +107,4 @@ public class UserEndPoints2 {
 	.get(delete_url);return response;
 
 	}
-}
+}*/

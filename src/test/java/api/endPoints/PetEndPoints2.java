@@ -1,4 +1,4 @@
-package api.endPoints;
+/*package api.endPoints;
 
 import static io.restassured.RestAssured.given;
 
@@ -90,4 +90,4 @@ public static Response deletePet(int petId)
 }
 
 
-}
+}*/

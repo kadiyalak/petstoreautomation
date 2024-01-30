@@ -1,4 +1,4 @@
-package api.payLoad;
+/*package api.payLoad;
 import java.util.Date;
 public class Store {
 	
@@ -56,4 +56,4 @@ public class Store {
 		 String shipdate;
 		  String status;String complete;
 		
-}
+}*/

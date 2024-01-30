@@ -1,4 +1,4 @@
-package api.endPoints;
+/*package api.endPoints;
 import static io.restassured.RestAssured.given;
 import java.util.HashMap;
 import java.util.Map;
@@ -6,8 +6,8 @@ import java.util.List;import java.util.ArrayList;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;import api.payLoad.User;
 
-//userEndPoints.java
-//Created for perform Create,Read,Update,Delete requests the user API.
+userEndPoints.java
+Created for perform Create,Read,Update,Delete requests the user API.
 public class UserEndPoints {
 public static Response createUser(User payload)
 {
@@ -112,7 +112,7 @@ Response response=given()
 
 
 
-}
+}*/
 
 
 
