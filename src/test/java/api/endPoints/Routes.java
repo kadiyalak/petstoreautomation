@@ -25,12 +25,12 @@ public class Routes {
 	//https://petstore.swagger.io/v2/pet
 	
 	//store
-	/*public static String post_url=base_url+"/store/order";
+	public static String post_url=base_url+"/store/order";
 	public static String get_url=base_url+"/store/order/{orderId}";
 	public static String update_url=base_url+"/store/inventory";
-	public static String delete_url=base_url+"/store/order/{orderId}";*/
+	public static String delete_url=base_url+"/store/order/{orderId}";
 	//pet
-	public static String post_url=base_url+"/pet";
+	/*public static String post_url=base_url+"/pet";
 	
 	
 	public static String post_url1=base_url+"/pet/{petId}/uploadImage";
@@ -38,7 +38,7 @@ public class Routes {
 	public static String get_url=base_url+"/pet/{petId}";
 	public static String get1_url=base_url+"/pet/findByStatus?status=pending";
 	public static String update_url=base_url+"/pet";
-	public static String delete_url=base_url+"/pet/{petId}";
+	public static String delete_url=base_url+"/pet/{petId}";*/
 	
 	
 	
