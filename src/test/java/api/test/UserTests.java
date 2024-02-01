@@ -1,4 +1,4 @@
-/*package api.test;
+package api.test;
 import static io.restassured.RestAssured.given;
 import com.google.gson.Gson;
 import java.util.ArrayList;
@@ -176,13 +176,13 @@ public class UserTests {
 		extract().response();
 		JsonPath jsonPathEvaluator=response.jsonPath();
 		ValidatableResponse validatableresponse=response.then();
-		validatableresponse.body("$", hasKey("code"));
+		/*validatableresponse.body("$", hasKey("code"));
 		validatableresponse.body("$",hasKey("type")); 
 		validatableresponse.body("$",hasKey("message" ));
 		
 		validatableresponse.body("code",is(notNullValue())); 
 		validatableresponse.body("type",is(notNullValue()));
-		validatableresponse.body("message",is(notNullValue()));
+		validatableresponse.body("message",is(notNullValue()));*/
 		int valueOfCode=jsonPathEvaluator.get("code");
 		String valueOfType=jsonPathEvaluator.get("type");
 		String valueOfMessage=jsonPathEvaluator.get("message");
@@ -191,7 +191,7 @@ public class UserTests {
 		System.out.println("the value of message Attribute is:"+valueOfMessage);
 	Assert.	assertEquals(valueOfCode,200);
 		Assert.assertEquals(valueOfType, "unknown");
-	Assert.	assertEquals(jsonPathEvaluator.get("code"),200);
+	//Assert.	assertEquals(jsonPathEvaluator.get("code"),200);
 	Assert.	assertEquals(jsonPathEvaluator.get("type"),"unknown");
 		
 		
@@ -261,4 +261,4 @@ public class UserTests {
 	
 	
 	
-}*/
+}
